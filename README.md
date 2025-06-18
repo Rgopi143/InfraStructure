@@ -101,7 +101,7 @@ You can improve security by moving your `SECRET_KEY` and `MongoDB URI` to a `.en
 
 ## 🧑‍💻 Author
 
-- Built by [R.GOPINATH REDDY](https://github.com/rgopi)
+- Built by [R.GOPINATH REDDY](https://github.com/rgopi143)
 - Contributions welcome!
 
 ---
